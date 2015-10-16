@@ -10,7 +10,7 @@ In order to execute build.xml, please install Apache ANT.
 Once this is done, in command prompt, set the current directory to the NuPack folder where build.xml is located and run the ant command.
 
 ```
-cd $folderPath\\NuPack
+cd $folderPath\NuPack
 ant
 ```
 
