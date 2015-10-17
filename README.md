@@ -18,5 +18,5 @@ Alternatively, you can execute the .jar file by first setting the current direct
 
 ```
 cd $folderPath\NuPack
-java -jar NuPackSample.ja
+java -jar NuPackSample.jar
 ```
