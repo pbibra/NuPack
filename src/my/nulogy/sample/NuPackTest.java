@@ -7,9 +7,10 @@ public class NuPackTest {
 		double result;
 		double expected;
 		final String sWrong = "Cost calculated was incorrect";
-		Package pkg = new Package();
 		
 		try {
+			
+			Package pkg = new Package();
 			
 			//Test 1
 			expected = 1591.58;
